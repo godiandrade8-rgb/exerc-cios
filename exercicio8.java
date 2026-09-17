@@ -1,3 +1,4 @@
+//Diogo de Oliveira de Andrade 
 import java.util.Scanner;
 public class exercicio8 {
     public static void main(String[] args) {
