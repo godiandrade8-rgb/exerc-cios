@@ -1,3 +1,4 @@
+//Diogo de Oliveira de Andrade 
 import java.util.Scanner;
 
 public class exercicio2 { 
